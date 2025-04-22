@@ -1,4 +1,6 @@
-<h2 align="left">Hi!👋 My name is Carolina and I'm a software developer in development.</h2>
+<h1 align="left">Hello world! 👋 <br> My name is Carolina!</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F700CF&width=435&lines=Full-stack+developer+in+development+.+.+.)](https://git.io/typing-svg)
 
 ###
 
@@ -9,11 +11,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="230" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
 <div align="left">
+  <h3>Languages</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -29,8 +32,10 @@
 </div>
 
 ###
+###
 
 <div align="left">
+  <h3>Contact</h3>
   <a href="https://www.linkedin.com/in/carolinamoreiradev/" title="Linkedin">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 <div align="left">
