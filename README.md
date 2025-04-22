@@ -1,4 +1,4 @@
-<h1 align="left">Hello world! 👋 <br> My name is Carolina!</h1>
+<h1 align="left">👋 Hello world!<br> My name is Carolina!</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1000&color=F700CF&width=435&lines=Full-stack+developer+in+development+.+.+.)](https://git.io/typing-svg)
 
